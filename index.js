@@ -16,4 +16,4 @@ document.addEventListener('keydown', function(e) {
     if(k === "ArrowRight" || k === "d") {
 
     } 
-  });
+});
